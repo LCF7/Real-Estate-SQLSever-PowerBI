@@ -1,7 +1,7 @@
 # Real-Estate-SQLServer-PowerBI: Property Prices Analysis in Waterloo Region
 
 ## Project Overview
-This project employs Power BI to analyze and visualize property prices in the Waterloo region. It aims to demonstrate an effective Business Intelligence (BI) infrastructure setup from data modeling in SQL Server to connecting with the BI tool, thereby creating impactful visualizations and insights.
+This project employs Power BI to analyze and visualize property prices in the Waterloo region. It aims to demonstrate an effective Business Intelligence (BI) infrastructure setup from data modeling in SQL Server to connecting with the BI tool, thereby creating impactful visualizations. The primary goal of this project is to evaluate and compare visualization capabilities against Tableau.
 
 ## SQL Server in the Project
 The foundation of our visualization is built upon SQL Server. Detailed data modeling and normalization were conducted to ensure accurate data feeds into Power BI for fair and meaningful visualization comparisons.
