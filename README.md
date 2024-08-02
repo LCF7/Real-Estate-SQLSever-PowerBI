@@ -6,18 +6,30 @@ This project employs Power BI to analyze and visualize property prices in the Wa
 ## SQL Server in the Project
 The foundation of our visualization is built upon SQL Server. Detailed data modeling and normalization were conducted to ensure accurate data feeds into Power BI for fair and meaningful visualization comparisons.
 
+![Data Model](https://drive.google.com/uc?export=view&id=1fw2APwGriwySzghAHcuanhchFocFV9Ue) 
+
 ## Objective
-Compaare BI tools throuhg the process of building BI real infraestrucutre for a real estate market analysis of the Waterloo region.
+Compare BI tools through the process of developing BI infrastructure for a real estate market analysis in the Waterloo region.
 
 ## Project Steps
 ### Database and Schema Setup
 - Created a SQL Server database and established schemas for structured data storage.
 ### Data Modeling
 - Developed and normalized tables to ensure data integrity and consistency.
+  
+
+
 ### Power BI Integration
 - Connected the modeled data with Power BI for visualization.
+  
+![Data Model](https://drive.google.com/uc?export=view&id=1dJJOzQ2Y_kdKLKwR2p8q0EIqlpDIqfAC) 
+
 ### Visualization Design
 - Designed and tested various visualizations to represent the data effectively.
+
+![Data Model](https://drive.google.com/uc?export=view&id=18Q8dUZcoV64mSsyXNQ6QkvrwTldTMnGQ) 
+![Data Model](https://drive.google.com/uc?export=view&id=1Uv7rqUuUw3q_u5NWZZNweYWKA-KVx2vP)
+![Data Model](https://drive.google.com/uc?export=view&id=11hQQ69NpzUdgCxVlYS-QnuFkk_2IMJsV) 
 
 ## Additional Considerations
 - **Security**: Implementations include security measures to protect data integrity and access.
